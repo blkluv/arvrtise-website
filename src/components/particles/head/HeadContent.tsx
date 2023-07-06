@@ -7,10 +7,10 @@ interface HeadContentProps {
 export default function HeadContent({ content }: HeadContentProps) {
   return (
     <Head>
-      <title>TechIsHiring - {content}</title>
+      <title>ARVRTISE - {content}</title>
       <meta
         property="og:description"
-        content={"TechIsHiring - " + {content}}
+        content={"ARVRtise campaign - " + {content}}
       />
     </Head>
   );

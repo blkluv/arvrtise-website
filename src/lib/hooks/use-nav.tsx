@@ -8,7 +8,7 @@ const useMainNav = () => {
       url: "https://newsletter.techishiring.com/",
       text: "Newsletter",
       externalLink: true,
-      externalLinkAlt: "external link for TechIsHiring Newsletter"
+      externalLinkAlt: "external link for ARVRtise Newsletter"
     },
     {
       url: "/about",

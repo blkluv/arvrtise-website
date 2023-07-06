@@ -18,11 +18,11 @@ export default async function handleSubscribe(
   sgMail.setApiKey(process.env.NEXT_PUBLIC_SENDGRID_API_KEY as string);
   
   const msg = {
-    to: 'techishiring@gmail.com',
-    from: 'techishiring@gmail.com',
-    subject: `TechIsHiring.com Query - from ${name} (${email})`,
+    to: 'info@arvrtise.com',
+    from: 'info@arvrtise.com.com',
+    subject: `ARVRtise.com it - from ${name} (${email})`,
     text: message,
-    html: `<h1>Message from TechIsHiring.com</h1>
+    html: `<h1>Message from ARVRtise.com</h1>
       <p>${message}</p>`
   };
   

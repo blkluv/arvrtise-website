@@ -12,70 +12,63 @@ const WhyChooseSection = () => {
       <figure className="m-10 pb-10">
         <header className="mb-10 lg:w-[30%] ">
           <HeaderText level="h2" size="xl" className="text-left !font-inter !font-extrabold !leading-[2.8rem]">
-            Why Choose ARVRtise ?
+            Easy as 1,2,3
           </HeaderText>
         </header>
         <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 ">
           <div className="flex flex-col space-y-3 rounded-xl border p-6">
             <div className="relative h-8 w-8 ">
-              <Icon
-                Icon={SiTwitter}
-                size={30}
-                color="#1DA1F2"
-                iconAlt="Twitter for Tech Is Hiring"
-              />
+            <div className="relative h-8 w-8">
+            <span role="img" aria-label="Twitter for Tech Is Hiring">
+              1️⃣
+            </span>
+            </div>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Sources from Twitter
+                Brainstorm
               </DefaultText>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                Curates job openings and links from twitter posts.Curates job
-                openings and links from twitter posts.
+                Tell us your end goal and we will brainstorm how to best build
+                it on it on blockchain.
               </DefaultText>
             </div>
           </div>
           <figure className="flex flex-col space-y-3 rounded-xl border p-6">
-            <div className="relative h-8 w-8 ">
-              <Icon
-                Icon={TbRefresh}
-                size={30}
-                color="#A38DFD"
-                iconAlt="Up to date for Tech Is Hiring"
-              />
+          <div className="relative h-8 w-8">
+            <span role="img" aria-label="Twitter for Tech Is Hiring">
+             2️⃣
+            </span>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Up to date
+                Build
               </DefaultText>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                Shares the latest job postings and daily job vacancies.Shares
-                the latest job postings and daily job vacancies.
+                We use AR, AI, NFT, XR, VR technology to build your best 
+                ARVRtising campaign on blockchain. 
               </DefaultText>
             </div>
           </figure>
           <figure className="flex flex-col space-y-3 rounded-xl border p-6">
-            <div className="relative h-8 w-8 ">
-              <Icon
-                Icon={BsFillKeyFill}
-                size={30}
-                color="#7AB8F1"
-                iconAlt="Permission for Tech Is Hiring"
-              />
+          <div className="relative h-8 w-8">
+            <span role="img" aria-label="Twitter for Tech Is Hiring">
+             3️⃣
+            </span>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Permissions
+                Brand
               </DefaultText>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                Obtains the author&apos;s consent before retweeting and sharing
-                content on TechIsHiring.
+                Brand your new ARVRtising campaign or an existing blockchain campaign
+                with AR, AI, NFT, XR, VR technology.
               </DefaultText>
             </div>
           </figure>

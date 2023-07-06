@@ -13,12 +13,11 @@ const Hero = () => {
           <div className="w-full max-w-[650px]">
             <p className="text-4xl font-[750] md:text-6xl md:leading-[70px]">
               The first <span className="text-[#E6007E]">Blockchain</span> advertising agency{" "}
-              <span className="text-[#73F6FD]">NFT Marketplace</span> with custom
-              services and shops
+              <span className="text-[#73F6FD]">NFT Marketplace</span> 
             </p>
             <p className="py-6 text-base">
-              Launch your NFT collection on Polkadot or the Bitcoin 
-              blockchain. Lauch your custom merch shop campaign today.
+              We brainstorm, build, and brand your blockchain marketing 
+              campaign. Launch your custom shop ad campaign today.
             </p>
 
             {/* Commented out based on whether we commit to continuing to use the Twitter API
