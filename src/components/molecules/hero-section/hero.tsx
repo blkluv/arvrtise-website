@@ -18,7 +18,7 @@ const Hero = () => {
             </p>
             <p className="py-6 text-base">
               Launch your NFT collection on Polkadot or the Bitcoin 
-              blockchain. Let's brainstorm and build your project.
+              blockchain. Lauch your custom merch shop campaign today.
             </p>
 
             {/* Commented out based on whether we commit to continuing to use the Twitter API
