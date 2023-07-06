@@ -12,19 +12,19 @@ const Hero = () => {
         <div className="mx-auto flex h-full max-w-[1210px] flex-col items-center justify-between px-10 py-8 lg:flex-row">
           <div className="w-full max-w-[650px]">
             <p className="text-4xl font-[750] md:text-6xl md:leading-[70px]">
-              Where great <span className="text-[#2188e7]">Jobs</span> and great{" "}
-              <span className="text-[#A38DFD]">Engineers</span> come to find one
-              another!
+              The first <span className="text-[#E6007E]">Blockchain</span> advertising agency{" "}
+              <span className="text-[#73F6FD]">NFT Marketplace</span> with custom
+              services and shops
             </p>
             <p className="py-6 text-base">
-              So many jobs available, all you have to do is keep up with our
-              posts. Check below for recent job openings.
+              Launch your NFT collection on Polkadot or the Bitcoin 
+              blockchain. Let's brainstorm and build your project.
             </p>
 
             {/* Commented out based on whether we commit to continuing to use the Twitter API
             
             <div className="flex items-center  justify-between rounded-lg bg-white p-2">
-              <div className="flex items-center text-[#2188E7]">
+              <div className="flex items-center text-[#E6007E]">
                 <Icon Icon={AiOutlineSearch} iconAlt="Search Icon" />
 
                 <input
