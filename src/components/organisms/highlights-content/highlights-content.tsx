@@ -6,7 +6,7 @@ const HighlightsContent = () => {
     <section className="flex flex-col items-center bg-[#D6E9FB] px-4 py-8">
       <header>
           <HeaderText level="h2" size="xl" className="text-left !font-inter !font-extrabold !leading-[2.8rem] py-8">
-          TechIsHiring Highlights
+          ARVRtise Highlights
         </HeaderText>
       </header>
       <HighlightsDetails />
