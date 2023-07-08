@@ -7,7 +7,7 @@ const validateFooter = (size: Size) => {
     cy.get(`[data-cy=${size}-footer]`).within(() => {
         cy.validateLink('Home', '/')
         cy.validateLink('TechIsHiring', '/')
-        cy.validateLink('Newsletter', 'https://newsletter.techishiring.com/', 'new tab')
+        cy.validateLink('Newsletter', 'https://arvrtise.substack.com/', 'new tab')
         cy.validateLink('About', '/about')
         cy.validateLink('Contact Us', '/contact')
     
@@ -16,10 +16,10 @@ const validateFooter = (size: Size) => {
         cy.validateLink('GitHub for Tech Is Hiring', 'https://www.github.com/techishiring', 'new tab')
         cy.validateLink('LinkedIn for Tech Is Hiring', 'https://www.linkedin.com/company/techishiring', 'new tab')
         cy.validateLink('Patreon for Tech Is Hiring', 'https://www.patreon.com/techishiring', 'new tab')
-        cy.validateLink('Tech Is Hiring Newsletter on Substack', 'https://newsletter.techishiring.com/', 'new tab')
+        cy.validateLink('Tech Is Hiring Newsletter on Substack', 'https://arvrtise.substack.com/', 'new tab')
     
         cy.contains(`p`, `© Copyright ${new Date().getFullYear()}, All rights reserved.`).should('be.visible')
-        cy.contains(`p`, `Website designed by Inetimi Ade (aidinetimi@gmail.com)`).should('be.visible')
+        cy.contains(`p`, `Website designed by Inetimi Ade (info@arvrtise.com)`).should('be.visible')
     })
     // test the main navigation links for the site
     cy.log('-----END FOOTER-----')

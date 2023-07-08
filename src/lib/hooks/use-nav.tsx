@@ -5,7 +5,7 @@ const useMainNav = () => {
       text: "Home"
     },
     {
-      url: "https://newsletter.techishiring.com/",
+      url: "https://arvrtise.substack.com/",
       text: "Newsletter",
       externalLink: true,
       externalLinkAlt: "external link for ARVRtise Newsletter"

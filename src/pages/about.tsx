@@ -9,10 +9,10 @@ const About: WithPageLayout<AboutProps> = () => {
   return (
     <>  
       <Head>
-        <title>TechIsHiring - About</title>
+        <title>ARVRtise - About</title>
         <meta
           property="og:description"
-          content={"TechIsHiring - About"}
+          content={"ARVRtise - About"}
         />
       </Head>
 

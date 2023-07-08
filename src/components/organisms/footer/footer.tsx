@@ -174,7 +174,7 @@ const DesktopFooter = ({ mobileNav }: FooterProps) => {
                 size={20}
               />
             </a>
-            <a target="_blank" rel="noreferrer" href="https://newsletter.techishiring.com/">
+            <a target="_blank" rel="noreferrer" href="https://arvrtise.substack.com/">
               <Icon
                 Icon={SiSubstack}
                 iconAlt="Tech Is Hiring Newsletter on Substack"
