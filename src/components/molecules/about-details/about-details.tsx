@@ -28,7 +28,7 @@ export default function AboutDetails() {
           where these tweets could be collected, the hashtag 
           <Link
             href={"https://twitter.com/arvrtise/"}>
-            <b className="text-primary font-800 cursor-pointer"> #TechIsHiring</b>
+            <b className="text-primary font-800 cursor-pointer"> #ARVRtise</b>
           </Link> and the TechIsHiring account were created.
         </DefaultText>
         <DefaultText as={"p"} w={{base:"80%", lg:"70%"}}>

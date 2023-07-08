@@ -16,7 +16,7 @@ const TwitterFeed = () => {
       <>
         <header>
           <HeaderText level="h2" className="text-left !font-inter !font-extrabold !leading-[2.8rem] py-8">
-            Latest tweets from #TechIsHiring:
+            Latest tweets from #ARVRtise:
           </HeaderText>
         </header>
         {isLoading && 
