@@ -19,15 +19,15 @@ const Logo = () => {
         `}
       />
       <Link href="https://arvrtise.com">
-      <Heading
-        as="h1"
-        fontSize="2.5em"
-        fontFamily="Dollar Outline, HirukoPro-Black" // Use "Dollar Outline" font along with fallback
-        className="logo text-black" // Add the "text-black" class
-      >
-        ARVRTISE
-      </Heading>
-    </Link>
+        <Heading
+          as="h1"
+          fontSize="2.5em"
+          fontFamily="Dollar Outline, HirukoPro-Black" // Use "Dollar Outline" font along with fallback
+          style={{ color: "black" }} // Apply the color directly to the style
+        >
+          ARVRTISE
+        </Heading>
+      </Link>
     </>
   );
 };
