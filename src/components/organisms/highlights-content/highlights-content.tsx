@@ -8,7 +8,7 @@ const HighlightsContent = () => {
       <HeaderText
   level="h2"
   size="xl"
-  className="text-left !font-inter !font-extrabold !leading-[2.8rem] py-8 text-white" // Add the text-white class
+  className="text-left font-DollarOutlineDemo-DO499 font-extrabold leading-[2.8rem] py-8 text-white" // Add the text-white class
 >
   ARVRtise Highlights
 </HeaderText>

@@ -11,9 +11,10 @@ const WhyChooseSection = () => {
     <section className="mx-auto w-full max-w-screen-2xl bg-white">
       <figure className="m-10 pb-10">
         <header className="mb-10 lg:w-[30%] ">
-          <HeaderText level="h2" size="xl" className="text-left !font-inter !font-extrabold !leading-[2.8rem]">
-            Easy as 1,2,3
-          </HeaderText>
+        <HeaderText level="h2" size="xl" className="text-left font-DollarOutlineDemo-DO499 font-extrabold leading-[2.8rem]">
+        Easy as 1, 2, 3
+        </HeaderText>
+
         </header>
         <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 ">
           <div className="flex flex-col space-y-3 rounded-xl border p-6">
@@ -51,7 +52,7 @@ const WhyChooseSection = () => {
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
                 Once you reach your 2nd month of subscribing, tag us @arvrtise on
-                Twitter and we will create your first ARVRtise NFT ad for FREE.
+                Twitter and we will create your first ARVRtise NFT ad for 🆓.
               </DefaultText>
             </div>
           </figure>
@@ -68,8 +69,9 @@ const WhyChooseSection = () => {
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                Claim your free ARVRtise ad, Join our <a href="https://discord.gg/nfAmqTGNAU">Discord</a>, 
-                request an article about how your NFT ARVRtising campaign works.
+                We are building the largest united decentralized ad agency as a 
+                solution to A.I. 60% of our workforce. Learn how your NFT ad campaign
+                works for you. Follow us on<a href="https://twitter.com/arvrtise">Twitter</a>.
               </DefaultText>
             </div>
           </figure>

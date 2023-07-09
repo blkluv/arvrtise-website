@@ -14,13 +14,14 @@ const Hero = () => {
               fontSize="4xl"
               fontFamily="Dollar Outline, HirukoPro-Black"
               className="text-white"
-            >
-              The first <span className="text-[#000000]">Blockchain</span> advertising agency{" "}
-              <span className="text-[#E6007E]">NFT Marketplace</span>
+            > 
+              WE MINT BLOCKCHAIN
+              <span className="text-[#E6007E]">A</span>D CAMPAIGNS 
             </Heading>
             <p className="py-6 text-base text-white">
-              You only need to learn how your ARVRtise ad works for you. Smartcontracts are the new agency contracts.
-              Claim your 🆓 ad with $KSM on our{" "}
+              We reward our loyal newsletter subscribers with customized content and NFT ads
+              that work for you. Learn how blockchain marketing benefits your business today.
+              Claim your 🆓 ad money with $KSM on our{" "}
               <a href="https://ad.arvrtise.com" className="text-[#E6007E]">
                 marketplace.
               </a>
