@@ -5,7 +5,7 @@ const HighlightsDetails = () => {
   return (
     <section className="flex flex-col xl:flex-row justify-center gap-10">
       <TwitterTweetEmbed
-        tweetId="1588617719016198144"
+        tweetId="1678097400454434816"
         placeholder={<Spinner />}
       />
       <TwitterTweetEmbed
