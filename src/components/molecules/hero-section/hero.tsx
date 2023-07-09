@@ -14,7 +14,7 @@ const Hero = () => {
         <div className="mx-auto flex h-full max-w-[1210px] flex-col items-center justify-between px-10 py-8 lg:flex-row">
           <div className="w-full max-w-[650px]">
           <Heading as="h1" className="text-4xl font-DollarOutlineDemo-DO499 md:text-6xl md:leading-[70px]">
-             The first <span className="text-white">Blockchain</span> advertising agency{" "}
+          <span className="text-white">The first Blockchain</span> advertising agency{" "}
              <span className="text-[#E6007E]">NFT Marketplace</span> 
              </Heading>
 
