@@ -16,7 +16,7 @@ const Hero = () => {
               className="text-white"
             > 
               WE MINT BLOCKCHAIN
-              <span className="text-[#E6007E]">A</span>D CAMPAIGNS 
+               <span className="text-[#E6007E]">A</span>D CAMPAIGNS 
             </Heading>
             <p className="py-6 text-base text-white">
               We reward our loyal newsletter subscribers with customized content and NFT ads

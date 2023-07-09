@@ -1,4 +1,3 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx}",
@@ -15,16 +14,13 @@ module.exports = {
       },
       screens: {
         xs: "425px",
-        // => @media (min-width: 425px) { ... }
         "2xl": "1440px",
-        // => @media (min-width: 1440px) { ... }
         "3xl": "1920px",
-        // => @media (min-width: 1920px) { ... }
         "pass-max-screen": "1921px"
-        // => @media (min-width: 1921px) { ... }
       },
       fontFamily: {
-        inter: ["Inter", "Dollar Outline", "sans-serif"]
+        inter: ["Inter", "sans-serif"],
+        'dollar-outline': ["Dollar Outline", "sans-serif"]
       },
       colors: {
         primary: "#000000",
