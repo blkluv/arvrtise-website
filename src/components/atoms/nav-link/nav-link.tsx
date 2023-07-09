@@ -17,7 +17,7 @@ const NavLink = ({ url, text, activeLink, button, externalLink, footer = false }
           className=""
           variant="solid"
           size="md"
-          colorScheme="facebook"
+          colorScheme="black"
         >
           <DefaultText className="text-white" fontSize="lg" as="span">
             {text}
@@ -25,7 +25,7 @@ const NavLink = ({ url, text, activeLink, button, externalLink, footer = false }
         </DefaultButton>
       : 
         <DefaultText
-          className={`${activeLink ? "border-b-2 border-blue-500 text-blue-500" : ""}`}
+        className={`${activeLink ? "border-b-2 border-[#E6007E] text-[#E6007E]" : ""}`}
           fontSize="lg"
           as="span">
           {text}
