@@ -5,6 +5,12 @@ const useMainNav = () => {
       text: "Home"
     },
     {
+      url: "https://ads.arvrtise.com",
+      text: "Marketplace",
+      externalLink: true,
+      externalLinkAlt: "external link for ARVRtise Marketplace"
+    },
+    {
       url: "https://arvrtise.substack.com/",
       text: "Newsletter",
       externalLink: true,

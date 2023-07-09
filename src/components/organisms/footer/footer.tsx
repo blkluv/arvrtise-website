@@ -172,7 +172,7 @@ const DesktopFooter = ({ mobileNav }: FooterProps) => {
             {`© Copyright ${new Date().getFullYear()}, All rights reserved.`}
           </DefaultText>
           <DefaultText className="text-right font-inter text-xs font-medium text-white lg:text-sm">
-            Website designed by Inetimi Ade (aidinetimi@gmail.com)
+            Made with LUV
           </DefaultText>
         </div>
       </div>

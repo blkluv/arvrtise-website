@@ -32,7 +32,8 @@ const WhyChooseSection = () => {
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
                 Subscribe to our newsletter and learn how to market your ARVRtising 
-                campaign to you your customers or followers. 
+                campaign to your customers or followers. Or receive daily ad deals 
+                within the industries that you love.
               </DefaultText>
             </div>
           </div>
@@ -49,8 +50,9 @@ const WhyChooseSection = () => {
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                Create a Twitter post about your ARVRtise newsletter subscription
-                , tag us @arvrtise and we will create your first ARVRtise ad for free. 
+                Create a Twitter post about your ARVRtise newsletter subscription,
+                tag us <a href="https://twitter.com/arvrtise">@arvrtise</a> and we 
+                will create your first ARVRtise ad for free. 
               </DefaultText>
             </div>
           </figure>
