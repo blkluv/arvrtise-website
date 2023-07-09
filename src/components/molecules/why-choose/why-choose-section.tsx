@@ -50,9 +50,8 @@ const WhyChooseSection = () => {
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                Create a Twitter post about your ARVRtise newsletter subscription,
-                tag us <a href="https://twitter.com/arvrtise">@arvrtise</a> and we 
-                will create your first ARVRtise ad for free. 
+                Once you reach your 2nd month of subscribing, tag us @arvrtise on
+                Twitter and we will create your first ARVRtise NFT ad for FREE.
               </DefaultText>
             </div>
           </figure>

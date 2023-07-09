@@ -21,7 +21,7 @@ const Logo = () => {
       <Link href="https://arvrtise.com">
         <Heading
           as="h1"
-          fontSize="2.5em"
+          fontSize="2.0em"
           fontFamily="Dollar Outline, HirukoPro-Black" // Use "Dollar Outline" font along with fallback
           style={{ color: "black" }} // Apply the color directly to the style
         >
