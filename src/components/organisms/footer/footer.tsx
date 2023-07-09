@@ -45,11 +45,12 @@ const MobileFooter = ({ mobileNav }: FooterProps) => {
       <div className="flex flex-col items-center justify-between space-y-6 py-7">
         {mobileNav.map(navElement => navElement)}
       </div>
-      <Link href="/">
-        <Text fontSize="xl" className="footer-logo">
-          ARVRtise
-        </Text>
-      </Link>
+      
+      <Link href="https://arvrtise.com">
+      <Text fontSize="xl" fontFamily="Dollar Outline" className="footer-logo">
+        ARVRTISE
+      </Text>
+    </Link>
       <div className="my-4 w-full">
         <Divider colorScheme="gray" />
       </div>
@@ -202,7 +203,7 @@ const Footer = () => {
   });
 
   return (
-    <footer className="flex justify-center w-full bg-[#134D82]">
+    <footer className="flex justify-center w-full bg-[#000000]">
       <div data-cy="desktop-footer" className="hidden w-full md:block 3xl:w-max-screen-size px-4 pt-6 pb-8 md:px-5 md:pb-16 lg:px-14">
         <DesktopFooter mobileNav={navItems} />
       </div>

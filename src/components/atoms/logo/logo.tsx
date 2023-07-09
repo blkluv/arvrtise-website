@@ -18,16 +18,16 @@ const Logo = () => {
           }
         `}
       />
-      <Link href="/">
-        <Heading
-          as="h1"
-          fontSize="1.5em"
-          fontFamily="Dollar Outline, HirukoPro-Black" // Use "Dollar Outline" font along with fallback
-          className="logo"
-        >
-          ARVRTISE
-        </Heading>
-      </Link>
+      <Link href="https://arvrtise.com">
+      <Heading
+        as="h1"
+        fontSize="2.5em"
+        fontFamily="Dollar Outline, HirukoPro-Black" // Use "Dollar Outline" font along with fallback
+        className="logo text-black" // Add the "text-black" class
+      >
+        ARVRTISE
+      </Heading>
+    </Link>
     </>
   );
 };
