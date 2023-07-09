@@ -15,7 +15,7 @@ const Hero = () => {
               fontFamily="Dollar Outline, HirukoPro-Black"
               className="text-white"
             > 
-              WE MINT BLOCKCHAIN
+              WE MINT BLOCKCHAIN<br />
                <span className="text-[#E6007E]">A</span>D CAMPAIGNS 
             </Heading>
             <p className="py-6 text-base text-white">
