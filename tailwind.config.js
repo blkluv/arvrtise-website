@@ -24,7 +24,7 @@ module.exports = {
         // => @media (min-width: 1921px) { ... }
       },
       fontFamily: {
-        inter: ["Inter", "sans-serif"]
+        inter: ["Inter", "Dollar Outline", "sans-serif"]
       },
       colors: {
         primary: "#000000",
