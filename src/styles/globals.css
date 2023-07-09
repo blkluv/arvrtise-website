@@ -9,8 +9,17 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Dollar Outline";
+  src: url("../../public/fonts/DollarOutlineDemo-DO499.ttf") format('woff2'),
+       url("../../public/fonts/DollarOutlineDemo-DO499.ttf") format('woff');
+  /* Add more font formats if necessary */
+  font-weight: normal;
+  font-style: normal;
+}
+
 .logo {
-  font-family: "HirukoPro-Black";
+  font-family: "Dollar Outline", "HirukoPro-Black";
   color: #2188e7;
 }
 

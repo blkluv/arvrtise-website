@@ -10,8 +10,8 @@ const Logo = () => {
           /* Add the font-face for Dollar Outline font */
           @font-face {
             font-family: 'Dollar Outline';
-            src: url("../../public/fonts/DollarOutlineDemo-DO499.ttf") format('woff2'),
-                 url("../../public/fonts/DollarOutlineDemo-DO499.ttf") format('woff');
+            src: url("/fonts/DollarOutlineDemo-DO499.ttf") format('woff2'),
+                 url("/fonts/DollarOutlineDemo-DO499.ttf") format('woff');
             /* Add more font formats if necessary */
             font-weight: normal;
             font-style: normal;
