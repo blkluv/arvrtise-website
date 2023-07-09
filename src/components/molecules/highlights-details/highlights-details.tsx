@@ -9,11 +9,11 @@ const HighlightsDetails = () => {
         placeholder={<Spinner />}
       />
       <TwitterTweetEmbed
-        tweetId="1641471955600658432"
+        tweetId="1678115420681666565"
         placeholder={<Spinner />}
       />
       <TwitterTweetEmbed
-        tweetId="1490321460098969601"
+        tweetId="1676707469240745984"
         placeholder={<Spinner />}
       />
     </section>
