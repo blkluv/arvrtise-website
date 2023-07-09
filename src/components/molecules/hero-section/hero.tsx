@@ -12,12 +12,12 @@ const Hero = () => {
         <div className="mx-auto flex h-full max-w-[1210px] flex-col items-center justify-between px-10 py-8 lg:flex-row">
           <div className="w-full max-w-[650px]">
             <p className="text-4xl font-[750] md:text-6xl md:leading-[70px]">
-              The first <span className="text-[#E6007E]">Blockchain</span> advertising agency{" "}
-              <span className="text-[#73F6FD]">NFT Marketplace</span> 
+              The first <span className="text-[#000000]">Blockchain</span> advertising agency{" "}
+              <span className="text-[#E6007E]">NFT Marketplace</span> 
             </p>
             <p className="py-6 text-base">
-              We brainstorm, build, and brand your blockchain marketing 
-              campaign. Launch your custom shop ad campaign today.
+              You only need to learn how your ARVRtise ad works for
+              you. Claim your 🆓 ad with $KSM on our <a href="https://ad.arvrtise.com">marketplace</a>. 
             </p>
 
             {/* Commented out based on whether we commit to continuing to use the Twitter API

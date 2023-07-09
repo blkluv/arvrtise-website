@@ -5,7 +5,8 @@ import {
   SiLinkedin,
   SiPatreon,
   SiSubstack,
-  SiGithub
+  SiGithub,
+  SiDiscord
 } from "react-icons/si";
 import useMainNav from "lib/hooks/use-nav";
 import { FiExternalLink } from "react-icons/fi";
@@ -46,7 +47,7 @@ const MobileFooter = ({ mobileNav }: FooterProps) => {
       </div>
       <Link href="/">
         <Text fontSize="xl" className="footer-logo">
-          TechIsHiring
+          ARVRtise
         </Text>
       </Link>
       <div className="my-4 w-full">
@@ -54,23 +55,23 @@ const MobileFooter = ({ mobileNav }: FooterProps) => {
       </div>
       <div className="flex flex-col space-y-1">
         <div className="flex items-center justify-center space-x-8 pb-5">
-          <a target="_blank" rel="noreferrer" href="https://www.twitter.com/techishiring">
+          <a target="_blank" rel="noreferrer" href="https://www.twitter.com/arvrtise">
             <Icon
               Icon={SiTwitter}
-              iconAlt="Twitter for Tech Is Hiring"
+              iconAlt="Twitter for ARVRtise"
               color="white"
               size={20}
             />
           </a>
-          <a target="_blank" rel="noreferrer" href="https://www.github.com/techishiring">
+          <a target="_blank" rel="noreferrer" href="https://discord.gg/nfAmqTGNAU">
             <Icon
-              Icon={SiGithub}
-              iconAlt="GitHub for Tech Is Hiring"
+              Icon={SiDiscord}
+              iconAlt="Discord for ARVRtise"
               color="white"
               size={20}
             />
           </a>
-          <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/techishiring">
+          <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/showcase/89771536">
             <Icon
               Icon={SiLinkedin}
               iconAlt="LinkedIn for Tech Is Hiring"
@@ -78,18 +79,10 @@ const MobileFooter = ({ mobileNav }: FooterProps) => {
               size={20}
             />
           </a>
-          <a target="_blank" rel="noreferrer" href="https://www.patreon.com/techishiring">
-            <Icon
-              Icon={SiPatreon}
-              iconAlt="Patreon for Tech Is Hiring"
-              color="white"
-              size={20}
-            />
-          </a>
-          <a target="_blank" rel="noreferrer" href="https://newsletter.techishiring.com/">
+          <a target="_blank" rel="noreferrer" href="https://arvrtise.substack.com/">
             <Icon
               Icon={SiSubstack}
-              iconAlt="Tech Is Hiring Newsletter on Substack"
+              iconAlt="ARVRtise Newsletter on Substack"
               color="white"
               size={20}
             />
@@ -99,7 +92,7 @@ const MobileFooter = ({ mobileNav }: FooterProps) => {
           {`© Copyright ${new Date().getFullYear()}, All rights reserved.`}
         </DefaultText>
         <DefaultText className="mx-auto w-[60%] text-center font-inter text-xs font-medium text-white">
-          Website designed by Inetimi Ade (aidinetimi@gmail.com)
+          ARVRtise it (info@arvrtise.com)
         </DefaultText>
       </div>
     </div>
@@ -111,7 +104,7 @@ const DesktopFooter = ({ mobileNav }: FooterProps) => {
     <div className="flex flex-col items-center ">
       <Link href="/">
         <Text fontSize="xl" className="footer-logo">
-          TechIsHiring
+          ARVRtise
         </Text>
       </Link>
       <div className="mt-5">
@@ -142,34 +135,26 @@ const DesktopFooter = ({ mobileNav }: FooterProps) => {
         
         <div className="flex flex-col space-y-1">
           <div className="flex items-center justify-end space-x-8 pb-2">
-            <a target="_blank" rel="noreferrer" href="https://www.twitter.com/techishiring">
+            <a target="_blank" rel="noreferrer" href="https://www.twitter.com/arvrtise">
               <Icon
                 Icon={SiTwitter}
-                iconAlt="Twitter for Tech Is Hiring"
+                iconAlt="Twitter for ARVRtise"
                 color="white"
                 size={20}
               />
             </a>
-            <a target="_blank" rel="noreferrer" href="https://www.github.com/techishiring">
+            <a target="_blank" rel="noreferrer" href="https://discord.gg/nfAmqTGNAU">
               <Icon
-                Icon={SiGithub}
-                iconAlt="GitHub for Tech Is Hiring"
+                Icon={SiDiscord}
+                iconAlt="Discord for ARVRtise"
                 color="white"
                 size={20}
               />
             </a>
-            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/techishiring">
+            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/showcase/89771536">
               <Icon
                 Icon={SiLinkedin}
-                iconAlt="LinkedIn for Tech Is Hiring"
-                color="white"
-                size={20}
-              />
-            </a>
-            <a target="_blank" rel="noreferrer" href="https://www.patreon.com/techishiring">
-              <Icon
-                Icon={SiPatreon}
-                iconAlt="Patreon for Tech Is Hiring"
+                iconAlt="LinkedIn for ARVRtise"
                 color="white"
                 size={20}
               />
@@ -177,7 +162,7 @@ const DesktopFooter = ({ mobileNav }: FooterProps) => {
             <a target="_blank" rel="noreferrer" href="https://arvrtise.substack.com/">
               <Icon
                 Icon={SiSubstack}
-                iconAlt="Tech Is Hiring Newsletter on Substack"
+                iconAlt="ARVRtise Newsletter on Substack"
                 color="white"
                 size={20}
               />

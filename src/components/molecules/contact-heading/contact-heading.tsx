@@ -15,10 +15,10 @@ const ContactHeading = () => {
                 You can reach us anytime via 
           <br/>
           <Link
-            href={"mailto:techishiring@gmail.com"}
+            href={"mailto:info@arvrtise.com"}
             className={"text-primary"}
           >
-              <>techishiring@gmail.com</>
+              <>info@arvrtise.com</>
           </Link>
           
                 

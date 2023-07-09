@@ -30,11 +30,11 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="icon" href="/favicon.ico" />
-          <meta property="og:url" content="https://www.techishiring.com" />
+          <meta property="og:url" content="https://www.arvrtise.com" />
           <meta property="og:type" content="website" />
           <meta
             property="og:title"
-            content="TechIsHiring - A space where great jobs and great devs can find each other!"
+            content="ARVRtise - Subscribe to our newsletter and launch your ARVRtising campaign for free."
           />
           <meta name="twitter:card" content="summary" />
           <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />

@@ -10,7 +10,7 @@ export default function HeadContent({ content }: HeadContentProps) {
       <title>ARVRTISE - {content}</title>
       <meta
         property="og:description"
-        content={"ARVRtise campaign - " + {content}}
+        content={"ARVRtise it here - " + {content}}
       />
     </Head>
   );

@@ -19,22 +19,22 @@ export default function AboutDetails() {
         </DefaultText>
         <DefaultText as={"p"} w={{base:"80%", lg:"70%"}}>
           During the pandemic,
-          <Link href="https://www.linkedin.com/in/ChadRStewart/" className="text-primary">
-            <b> Chad R. Stewart</b>
+          <Link href="https://www.linkedin.com/in/hahzterry/" className="text-primary">
+            <b> Hahz Terry</b>
           </Link>
-          , the <b>Founder of TechIsHiring</b>, noticed that many 
-          people were tweeting about job openings they had discovered and advertising possibilities 
-          that they had come across, which is how <b>TechIsHiring</b> came to be. Since there was no one place  
-          where these tweets could be collected, the hashtag 
+          , the <b>Founder of ARVRtise</b>, asked 1000s of business owners
+          ,creators and freelancers around the do you know what an NFT is? To understand how to best explain 
+          how they could <b>ARVRtise</b> their specific service or product. This lead to building a new way
+          to answer how blockchain benefits the world by creating ARVRtising campaign blueprints for the world.
           <Link
             href={"https://twitter.com/arvrtise/"}>
             <b className="text-primary font-800 cursor-pointer"> #ARVRtise</b>
-          </Link> and the TechIsHiring account were created.
+          </Link> and the ARVRtise account were created.
         </DefaultText>
         <DefaultText as={"p"} w={{base:"80%", lg:"70%"}}>
           Looking to work with the Founder directly?
           <Link href="/hire-chad">
-            <b className="text-primary cursor-pointer"> Hire Chad R. Stewart</b>
+            <b className="text-primary cursor-pointer"> Hire Hahz Terry</b>
           </Link>
           .
         </DefaultText>

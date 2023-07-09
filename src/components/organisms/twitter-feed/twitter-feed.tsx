@@ -26,7 +26,7 @@ const TwitterFeed = () => {
         }
         <TwitterTimelineEmbed 
         sourceType="profile" 
-        screenName="TechIsHiring" 
+        screenName="ARVRtise" 
         onLoad={handleLoad}
         />
       </>

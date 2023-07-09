@@ -6,9 +6,9 @@ describe("Homepage", () => {
   });
 
   it("should display the homepage", () => {
-    cy.title().should("include", "TechIsHiring");
+    cy.title().should("include", "ARVRtise");
     cy.get("header").should("be.visible");
-    cy.get('.sticky > :nth-child(1) > a > .chakra-heading').contains('TechIsHiring');
+    cy.get('.sticky > :nth-child(1) > a > .chakra-heading').contains('ARVRtise');
     cy.get('header > div > nav > ul').should('be.visible');
 
     validateFooter('desktop')

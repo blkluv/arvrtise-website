@@ -26,49 +26,49 @@ const WhyChooseSection = () => {
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Brainstorm
+                Subscribe
               </DefaultText>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                Tell us your end goal and we will brainstorm how to best build
-                it on it on blockchain.
+                Subscribe to our newsletter and learn how to market your ARVRtising 
+                campaign to you your customers or followers. 
               </DefaultText>
             </div>
           </div>
           <figure className="flex flex-col space-y-3 rounded-xl border p-6">
           <div className="relative h-8 w-8">
-            <span role="img" aria-label="Twitter for Tech Is Hiring">
+            <span role="img" aria-label="Twitter for ARVRtise">
              2️⃣
             </span>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Build
+                Promote 
               </DefaultText>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                We use AR, AI, NFT, XR, VR technology to build your best 
-                ARVRtising campaign on blockchain. 
+                Create a Twitter post about your ARVRtise newsletter subscription
+                , tag us @arvrtise and we will create your first ARVRtise ad for free. 
               </DefaultText>
             </div>
           </figure>
           <figure className="flex flex-col space-y-3 rounded-xl border p-6">
           <div className="relative h-8 w-8">
-            <span role="img" aria-label="Twitter for Tech Is Hiring">
+            <span role="img" aria-label="Twitter for ARVRtise">
              3️⃣
             </span>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Brand
+                Community
               </DefaultText>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                Brand your new ARVRtising campaign or an existing blockchain campaign
-                with AR, AI, NFT, XR, VR technology.
+                Claim your free ARVRtise ad, Join our <a href="https://discord.gg/nfAmqTGNAU">Discord</a>, 
+                request an article about how your NFT ARVRtising campaign works.
               </DefaultText>
             </div>
           </figure>

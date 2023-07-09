@@ -12,10 +12,10 @@ const Home: WithPageLayout<HomeProps> = () => {
   return (
     <>
       <Head>
-        <title>TechIsHiring - A space where great jobs and great devs can find each other!</title>
+        <title>ARVRtise - Subscribe to our newsletter and launch your ARVRtising campaign for free.</title>
         <meta
           property="og:description"
-          content={"TechIsHiring - A space where great jobs and great devs can find each other!"}
+          content={"ARVRtise - Subscribe to our newsletter and launch your ARVRtising campaign for free."}
         />
       </Head>
       <Hero />

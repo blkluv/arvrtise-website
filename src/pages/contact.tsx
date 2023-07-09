@@ -12,10 +12,10 @@ const Contact: WithPageLayout<ContactProps> = () => {
   return ( 
     <div>
       <Head>
-        <title>TechIsHiring - Contact</title>
+        <title>ARVRtise - Contact</title>
         <meta
           property="og:description"
-          content={"TechIsHiring - Contact"}
+          content={"ARVRtise - Contact"}
         />
       </Head>
 
