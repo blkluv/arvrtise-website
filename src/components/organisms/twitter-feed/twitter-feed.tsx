@@ -15,9 +15,12 @@ const TwitterFeed = () => {
     <Card section className="min-w-full md:px-[10%]">
       <>
         <header>
-          <HeaderText level="h2" className="text-left !font-inter !font-extrabold !leading-[2.8rem] py-8">
-            Latest tweets from #ARVRtise:
-          </HeaderText>
+        <HeaderText
+         level="h2"
+         className="text-left font-DollarOutlineDemo-DO499 !font-inter !font-extrabold !leading-[2.8rem] py-8"
+         >
+        Latest Tweets from #ARVRtise:
+        </HeaderText>
         </header>
         {isLoading && 
           <div className="flex my-3 inset-0 justify-center items-center">
