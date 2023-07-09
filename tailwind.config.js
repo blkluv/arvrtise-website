@@ -27,12 +27,12 @@ module.exports = {
         inter: ["Inter", "sans-serif"]
       },
       colors: {
-        primary: "#165C9C",
-        secondary: "#101828",
+        primary: "#000000",
+        secondary: "#E6007E",
         gray: "#667085",
         dark: "#000000",
         altDark: "#222222",
-        altWhite: "#F0F0F0"
+        altWhite: "#000000"
       }
     }
   },
