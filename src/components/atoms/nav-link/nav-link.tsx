@@ -17,7 +17,7 @@ const NavLink = ({ url, text, activeLink, button, externalLink, footer = false }
           className=""
           variant="solid"
           size="md"
-          colorScheme="black"
+          colorScheme="facebook"
         >
           <DefaultText className="text-white" fontSize="lg" as="span">
             {text}

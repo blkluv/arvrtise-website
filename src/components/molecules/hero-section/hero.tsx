@@ -1,23 +1,25 @@
 import Image from "next/image";
 import React from "react";
-import { Box } from "@chakra-ui/react";
+import { Heading } from "@chakra-ui/react";
 import { HeroImage } from "../../../images/Index";
-
-import Icon from "components/atoms/icon/icon";
-import { AiOutlineSearch } from "react-icons/ai";
 
 const Hero = () => {
   return (
-    <Box className="h-full w-full bg-[#eaeaea]">
+    <div className="h-full w-full bg-[#eaeaea]">
       <div className={`min-h-[650px] bg-[url('/assets/images/hero-bg-image.jpg')]`}>
         <div className="mx-auto flex h-full max-w-[1210px] flex-col items-center justify-between px-10 py-8 lg:flex-row">
           <div className="w-full max-w-[650px]">
-            <h1 className="text-4xl font-DollarOutlineDemo-DO499 md:text-6xl md:leading-[70px] text-white">
-              The first <span className="text-[#E6007E]">Blockchain</span> advertising agency{" "}
+            <Heading
+              as="h1"
+              fontSize="4xl"
+              fontFamily="Dollar Outline, HirukoPro-Black"
+              className="text-white"
+            >
+              The first <span className="text-[#000000]">Blockchain</span> advertising agency{" "}
               <span className="text-[#E6007E]">NFT Marketplace</span>
-            </h1>
+            </Heading>
             <p className="py-6 text-base text-white">
-              You only need to learn how your ARVRtise ad works for you. Smart contracts are the new agency contracts.
+              You only need to learn how your ARVRtise ad works for you. Smartcontracts are the new agency contracts.
               Claim your 🆓 ad with $KSM on our{" "}
               <a href="https://ad.arvrtise.com" className="text-[#E6007E]">
                 marketplace.
@@ -29,7 +31,7 @@ const Hero = () => {
           </div>
         </div>
       </div>
-    </Box>
+    </div>
   );
 };
 
