@@ -6,25 +6,23 @@ import { HeroImage } from "../../../images/Index";
 const Hero = () => {
   return (
     <div className="h-full w-full bg-[#eaeaea]">
-      <div className={`min-h-[650px] bg-[url('/assets/images/hero-bg-image.jpg')]`}>
+      <div
+        className={`min-h-[650px] bg-[url('/assets/images/hero-bg-image.jpg')]`}
+      >
         <div className="mx-auto flex h-full max-w-[1210px] flex-col items-center justify-between px-10 py-8 lg:flex-row">
           <div className="w-full max-w-[650px]">
-            <Heading
-              as="h1"
-              fontSize="4xl"
-              fontFamily="Dollar Outline, HirukoPro-Black"
-              className="text-white"
-            > 
-              WE MINT BLOCKCHAIN<br />
-               <span className="text-[#E6007E]">A</span>D CAMPAIGNS 
+            <Heading as="h1" fontSize="4xl" fontFamily="HirukoPro-Black" className="text-white">
+              TOKENIZE YOUR <br />
+              BUSINESS
             </Heading>
             <p className="py-6 text-base text-white">
-              We reward our loyal newsletter subscribers with customized content and NFT ads
-              that work for you. Learn how blockchain marketing benefits your business today.
-              Claim your 🆓 ad money with $KSM on our{" "}
+              We help our tribe tokenize their service or products on our in house
+              blockchains. Get paid to onboard small business and creators to the
+              block with Arvrtise ads. Subscribe to our{" "}
               <a href="https://ad.arvrtise.com" className="text-[#E6007E]">
-                marketplace.
-              </a>
+                Substack
+              </a>{" "}
+              to learn about the new digital economy.
             </p>
           </div>
           <div className="relative mt-6 min-h-[20rem] w-full md:h-[30rem] lg:mt-0 lg:h-[35rem]">

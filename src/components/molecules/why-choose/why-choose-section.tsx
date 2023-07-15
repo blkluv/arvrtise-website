@@ -12,7 +12,7 @@ const WhyChooseSection = () => {
       <figure className="m-10 pb-10">
         <header className="mb-10 lg:w-[30%] ">
         <HeaderText level="h2" size="xl" className="text-left font-DollarOutlineDemo-DO499 font-extrabold leading-[2.8rem]">
-        Easy as 1, 2, 3
+        Choose your blockchain
         </HeaderText>
 
         </header>
@@ -21,57 +21,56 @@ const WhyChooseSection = () => {
             <div className="relative h-8 w-8 ">
             <div className="relative h-8 w-8">
             <span role="img" aria-label="Twitter for Tech Is Hiring">
-              1️⃣
+              🅰️DS
             </span>
             </div>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Subscribe
+                Arvrtise Ads
               </DefaultText>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                Subscribe to our newsletter and learn how to market your ARVRtising 
-                campaign to your customers or followers. Or receive daily ad deals 
-                within the industries that you love.
+                Launch your NFT ad campaign on Polkadot blockchain and create a 
+                new $KSM income stream for your business.<a href="https://ads.arvrtise.com">NFT Marketplace</a>
               </DefaultText>
             </div>
           </div>
           <figure className="flex flex-col space-y-3 rounded-xl border p-6">
           <div className="relative h-8 w-8">
             <span role="img" aria-label="Twitter for ARVRtise">
-             2️⃣
+             🅾️RDINAL❌
             </span>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Promote 
+                Arvrtise OrdinalX
               </DefaultText>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                Once you reach your 2nd month of subscribing, tag us @arvrtise on
-                Twitter and we will create your first ARVRtise NFT ad for 🆓.
+                Launch your Ordinals NFT ad campaign on and create a new $BTC income stream 
+                for your blockchain business.<a href="https://ordinalx.arvrtise.com">NFT Marketplace</a>
               </DefaultText>
             </div>
           </figure>
           <figure className="flex flex-col space-y-3 rounded-xl border p-6">
           <div className="relative h-8 w-8">
             <span role="img" aria-label="Twitter for ARVRtise">
-             3️⃣
+            📰 NEWS
             </span>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Community
+                Substack
               </DefaultText>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
-                We are building the largest united decentralized ad agency as a 
-                solution to A.I. 60% of our workforce. Learn how your NFT ad campaign
-                works for you. Follow us on<a href="https://twitter.com/arvrtise">Twitter</a>.
+                Subsribe to our Substack to learn the new digital economy and how
+                to create marketing campaign that works for you by turning your 
+                customers or followers to you marketing team.<a href="https://arvrtise.substack.com">Subsribe</a>
               </DefaultText>
             </div>
           </figure>
