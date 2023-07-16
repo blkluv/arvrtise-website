@@ -21,26 +21,26 @@ const WhyChooseSection = () => {
             <div className="relative h-8 w-8 ">
             <div className="relative h-8 w-8">
             <span role="img" aria-label="Twitter for Tech Is Hiring">
-              ADS
+              
             </span>
             </div>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-               🅰️rvrtise Ads
+               🅰️rvrtise 🅰️ds
               </DefaultText>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
                 Launch your NFT ad campaign on Polkadot blockchain and create a 
-                new $KSM income stream for your business.<a href="https://ads.arvrtise.com">NFT Marketplace</a>
+                new $KSM income stream for your business.<b><a href="https://ads.arvrtise.com">Start Here</a></b>
               </DefaultText>
             </div>
           </div>
           <figure className="flex flex-col space-y-3 rounded-xl border p-6">
           <div className="relative h-8 w-8">
             <span role="img" aria-label="Twitter for ARVRtise">
-             ORDINALX
+             
             </span>
             </div>
             <div className="">
@@ -51,14 +51,14 @@ const WhyChooseSection = () => {
             <div className="">
               <DefaultText className="text-left font-inter text-base font-normal">
                 Launch your Ordinals NFT ad campaign on and create a new $BTC income stream 
-                for your blockchain business.<a href="https://ordinalx.arvrtise.com">NFT Marketplace</a>
+                for your blockchain business.<b><a href="https://ordinalx.arvrtise.com">Start Here</a></b>
               </DefaultText>
             </div>
           </figure>
           <figure className="flex flex-col space-y-3 rounded-xl border p-6">
           <div className="relative h-8 w-8">
             <span role="img" aria-label="Twitter for ARVRtise">
-              NEWS
+              
             </span>
             </div>
             <div className="">
@@ -70,7 +70,7 @@ const WhyChooseSection = () => {
               <DefaultText className="text-left font-inter text-base font-normal">
                 Subsribe to our Substack to learn the new digital economy and how
                 to create marketing campaign that works for you by turning your 
-                customers or followers to you marketing team.<a href="https://arvrtise.substack.com">Subsribe</a>
+                customers or followers to you marketing team.<b><a href="https://arvrtise.substack.com">Subsribe Here</a></b>
               </DefaultText>
             </div>
           </figure>
