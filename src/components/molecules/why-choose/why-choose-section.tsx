@@ -21,13 +21,13 @@ const WhyChooseSection = () => {
             <div className="relative h-8 w-8 ">
             <div className="relative h-8 w-8">
             <span role="img" aria-label="Twitter for Tech Is Hiring">
-              🅰️DS
+              ADS
             </span>
             </div>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Arvrtise Ads
+               🅰️rvrtise Ads
               </DefaultText>
             </div>
             <div className="">
@@ -40,12 +40,12 @@ const WhyChooseSection = () => {
           <figure className="flex flex-col space-y-3 rounded-xl border p-6">
           <div className="relative h-8 w-8">
             <span role="img" aria-label="Twitter for ARVRtise">
-             🅾️RDINAL❌
+             ORDINALX
             </span>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Arvrtise OrdinalX
+               🅰️rvrtise 🅾️rdinal❌
               </DefaultText>
             </div>
             <div className="">
@@ -58,12 +58,12 @@ const WhyChooseSection = () => {
           <figure className="flex flex-col space-y-3 rounded-xl border p-6">
           <div className="relative h-8 w-8">
             <span role="img" aria-label="Twitter for ARVRtise">
-            📰 NEWS
+              NEWS
             </span>
             </div>
             <div className="">
               <DefaultText className="text-left font-inter text-lg font-extrabold">
-                Substack
+               📰 Substack
               </DefaultText>
             </div>
             <div className="">
