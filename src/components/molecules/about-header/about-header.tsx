@@ -12,13 +12,12 @@ export default function AboutHeader() {
         <div className="w-full flex flex-col items-center justify-center px-[18px] lg:px-0 bg-gradient-to-r from-black/60  to-transparent gap-4">
             
             <HeaderText level={"h1"} className={"text-white"} fontWeight={"extrabold"} fontSize={{base: "39px", md:"56px"}}>
-                Transnational <span className="text-[#7AB8F1]">Job Listing</span> Channel
+                The First <span className="text-[#FF4B6F]">💯% Blockchain</span> Advertising Agency
             </HeaderText>
 
             <div className="text-white flex justify-start items-start lg:px-5 w-full lg:w-[40%] text-left lg:text-center">
               <p className="">
-                So many jobs available, all you have to do is keep up with  our posts. Check below for recent job openings. 
-              </p>
+               We have a vast array of blockchain options that best suit your NFT marketing campaign needs. </p>
             </div>
 
         </div>
