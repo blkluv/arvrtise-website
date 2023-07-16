@@ -1,18 +1,17 @@
 import Link from "components/atoms/link/link";
-import { Image, Box } from "@chakra-ui/react";
+import { Image } from "@chakra-ui/react";
 
 const Logo = () => {
   return (
     <Link href="https://arvrtise.com">
-      <Box maxW={["160px", "170px"]} width="100%" height="auto">
-        <Image
-          src="/arvrtise-logo.png" // Replace with the actual path to your SVG file
-          alt="Arvrtise Logo"
-          width="100%"
-          height="100%"
-          objectFit="contain"
-        />
-      </Box>
+      <Image
+        src="/arvrtise-logo.png" // Replace with the actual path to your SVG file
+        alt="Arvrtise Logo"
+        maxW={["80px", "90px"]} // Set the maximum width for the logo
+        width="100%"
+        height="auto"
+        objectFit="contain"
+      />
     </Link>
   );
 };
