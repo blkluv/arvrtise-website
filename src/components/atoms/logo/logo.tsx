@@ -7,8 +7,8 @@ const Logo = () => {
       <Image
         src="/arvrtise-logo.png" // Replace with the actual path to your SVG file
         alt="Arvrtise Logo"
-        maxW={["80px", "90px"]} // Set the maximum width for the logo
-        width="100%"
+        
+         width="100%"
         height="auto"
         objectFit="contain"
       />

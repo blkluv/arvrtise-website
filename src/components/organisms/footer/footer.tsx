@@ -47,8 +47,8 @@ const MobileFooter = ({ mobileNav }: FooterProps) => {
       <Image
         src="/arvrtise-logo-white.png" // Replace with the actual path to your logo image
         alt="ARVRTISE Logo"
-        boxSize={["160px", "170px"]} // Set the desired size for the logo
-      />
+        
+       />
 
       <div className="my-4 w-full">
         <Divider colorScheme="gray" />
@@ -107,7 +107,7 @@ const DesktopFooter = ({ mobileNav }: FooterProps) => {
         <Image
           src="/arvrtise-logo-white.png" // Replace with the actual path to your logo image
           alt="ARVRtise Logo"
-          boxSize={["160px", "170px"]} // Set the desired size for the logo
+           
         />
       </Link>
       <div className="mt-5">
