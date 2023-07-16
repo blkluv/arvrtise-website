@@ -12,7 +12,7 @@ const WhyChooseSection = () => {
       <figure className="m-10 pb-10">
         <header className="mb-10 lg:w-[30%] ">
         <HeaderText level="h2" size="xl" className="text-left font-DollarOutlineDemo-DO499 font-extrabold leading-[2.8rem]">
-        Choose your blockchain
+        Options
         </HeaderText>
 
         </header>
