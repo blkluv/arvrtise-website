@@ -5,9 +5,9 @@ const Logo = () => {
   return (
     <Link href="https://arvrtise.com">
       <Image
-        src="/arvrtise_logo.svg" // Replace with the actual path to your SVG file
+        src="/arvrtise-logo.png" // Replace with the actual path to your SVG file
         alt="Arvrtise Logo"
-        boxSize={["40px", "50px"]} // Set the desired size for the logo
+        boxSize={["60px", "70px"]} // Set the desired size for the logo
       />
     </Link>
   );
