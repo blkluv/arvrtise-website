@@ -12,12 +12,17 @@ const Hero = () => {
         <div className="mx-auto flex h-full max-w-[1210px] flex-col items-center justify-between px-10 py-8 lg:flex-row">
           <div className="w-full max-w-[650px]">
             <Heading as="h1" fontSize="4xl" fontFamily="HirukoPro-Black" className="text-white">
-              TOKENIZE YOUR <br />
-              BUSINESS
+              CREATE A 🆓 MARKETING <br />
+              CAMPAIGN TODAY
             </Heading>
             <p className="py-6 text-base text-white">
-              We help our tribe tokenize their service or products on our in house
-              blockchains. Get paid to onboard small business and creators to the
+              No contracts, no upfront fees or no hidden fees.
+              Apply <a href="https://forms.gle/YoUBZ4tJJrArYMcA8" className="text-[#E6007E]">
+                here
+              </a>to get start your blockchain ad campaign. Apply <a href="https://www.linkedin.com/jobs/view/3660358379" className="text-[#E6007E]">
+                here
+              </a> to get paid to 
+              onboard small business and creators to the
               block with Arvrtise ads. Subscribe to our{" "}
               <a href="https://ad.arvrtise.com" className="text-[#E6007E]">
                 Substack

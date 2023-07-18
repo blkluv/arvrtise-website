@@ -1,6 +1,6 @@
-# TechIsHiring Website
+# Arvrtise Website
 
-TechIsHiring's website, focusing on showcasing the top tweets from the Twitter account and the TechIsHiring newsletter.
+Arvrtise's website, focusing on showcasing the top tweets from the Twitter account and the Arvrtise newsletter.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/TechIsHiring/techishiring-website)
 
@@ -17,7 +17,7 @@ TechIsHiring's website, focusing on showcasing the top tweets from the Twitter a
 
 ## Project Figma
 
-This is a link to the Figma File for the TechIsHiring Website: [TechIsHiring Website Figma](https://www.figma.com/file/AHf38Z5LQ4v1YBIgJv0tsM/TechIsHiring?t=ItybLH9XnPZ96T8A-6)
+This is a link to the Figma File for the Arvrtise Website: [Arvrtise Website Figma](https://www.figma.com/file/AHf38Z5LQ4v1YBIgJv0tsM/TechIsHiring?t=ItybLH9XnPZ96T8A-6)
 
 ## Project Design Document
 
@@ -32,7 +32,7 @@ This project uses Atomic Design for it's Components. Here are several resources 
 
 ## Dev Environment
 
-Check out what the we're currently work on at [https://dev.techishiring.com](https://dev.techishiring.com)
+Check out what the we're currently work on at [https://dev.Arvrtise.com](https://dev.Arvrtise.com)
 
 ## GitHub Codespaces Setup
 
@@ -50,7 +50,7 @@ A simple browser window will automatically open up for you so you can view the s
 
 ## Storybook
 
-The Stoybook for this project can be found at [https://stories.techishiring.com](https://stories.techishiring.com)
+The Stoybook for this project can be found at [https://stories.Arvrtise.com](https://stories.Arvrtise.com)
 
 ### Run it locally
 

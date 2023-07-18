@@ -13,14 +13,14 @@ const HireChad: WithPageLayout<HireChadProps> = () => {
     <div>
 
       <Head>
-        <title>TechIsHiring - Hire Chad</title>
+        <title>Arvrtise - Hire Hahz Terry</title>
         <meta
           property="og:description"
-          content={"TechIsHiring - Hire Chad"}
+          content={"Arvrtise - Hire Hahz Terry"}
         />
           <meta name="twitter:card" content="summary" />
           <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
-          <meta property="og:image" content="/chad-profile-social-card.jpg" />
+          <meta property="og:image" content="/Hahz-Terry-profile-card.jpg" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
       </Head>
 
