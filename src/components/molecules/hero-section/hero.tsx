@@ -24,7 +24,7 @@ const Hero = () => {
               </a> to get paid to 
               onboard small business and creators to the
               block with Arvrtise ads. Subscribe to our{" "}
-              <a href="https://ad.arvrtise.com" className="text-[#E6007E]">
+              <a href="https://arvrtise.substack.com" className="text-[#E6007E]">
                 Substack
               </a>{" "}
               to learn about the new digital economy.
